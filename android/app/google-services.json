@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781436563267",
+    "firebase_url": "https://ezz-gym.firebaseio.com",
+    "project_id": "ezz-gym",
+    "storage_bucket": "ezz-gym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781436563267:android:296b54dcebee6f71c389f6",
+        "android_client_info": {
+          "package_name": "com.dletatgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781436563267-lufsfgtvdcd47p1cd99uomqc6fontj24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDflInY5g8Kxt1W5MGVRHkNsWE5_ocxSIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781436563267-lufsfgtvdcd47p1cd99uomqc6fontj24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

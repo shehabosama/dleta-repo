@@ -1,0 +1,14 @@
+export {default as Splash} from './Splash';
+export {default as Login} from './Login';
+export {default as Home} from './Home';
+export {default as ForgetPass} from './ForgetPassword';
+export {default as VerificationKey} from './VerificationKey';
+export {default as ShiftsScreen} from './Shifts';
+export {default as ShiftsWeekScreen} from './Shifts/indexOfWeek';
+export {default as Logout} from './logout';
+export {default as Notifications} from './Notifications';
+export {default as Profile} from './Profile';
+export {default as ViewShift} from './Shifts/showshift';
+export {default as Billing} from './Billing';
+export {default as Message} from './message';
+export {default as NewCard} from './newCard';
